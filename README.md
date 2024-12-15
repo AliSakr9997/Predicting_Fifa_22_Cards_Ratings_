@@ -1,0 +1,1 @@
+# Predicting_Fifa_22_Cards_Ratings_
